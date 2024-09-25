@@ -1,6 +1,6 @@
 export const metadata = {
-  title: "Contact us - Creative",
-  description: "Page description",
+  title: "Contact us - AI Course Creation CoPilot",
+  description: "Create courses with AI",
 };
 
 import PageHeader from "@/components/page-header";

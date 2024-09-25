@@ -7,8 +7,8 @@ Note: This code includes an example of how to fetch data from an external JSON f
 import getAllPosts from "@/lib/getAllPosts";
 
 export const metadata = {
-  title: "Updates - heyTrain",
-  description: "",
+  title: "Updates - AI Course Creation CoPilot",
+  description: "Create courses with AI",
 };
 
 import PageHeader from "@/components/page-header";
