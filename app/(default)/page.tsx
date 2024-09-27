@@ -5,6 +5,7 @@ export const metadata = {
 
 import PageHeader from "@/components/page-header";
 import SubscribeForm from "@/components/subscribe-form";
+import TerminalCopilot from "@/components/terminal";
 
 export default function Home() {
   return (
@@ -13,7 +14,7 @@ export default function Home() {
         <div className="px-4 sm:px-6">
           <PageHeader
             className="mb-12"
-            title="From Concept to Course in Minutes"
+            title="Course creation with AI"
             description="Your AI-powered course creation companion that transforms ideas into world-class learning experiences in minutes, not months."
             // title="The software that sparks your imagination"
             // description="Our landing page template works on all devices, so you only have to set it up once, and get beautiful results forever."
